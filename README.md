@@ -1,4 +1,4 @@
-# 43rd International Geoscience and Remote Sensing Symposium (IGARSS)
+# 43rd International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena, California
 
 ## **`MUTUAL CHANNELS LOSS AND CHANNEL-WISE ATTENTION AIDED CONVOLUTIONAL AUTOENCODER FOR HYPERSPECTRAL IMAGE UNMIXING`**
 
